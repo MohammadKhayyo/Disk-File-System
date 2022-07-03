@@ -1,5 +1,4 @@
-// Name : Mohammad Khayyo
-// ID: 211558895 
+
 
 // the includes I used
 #include <iostream>
